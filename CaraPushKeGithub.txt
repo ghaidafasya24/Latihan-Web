@@ -1,0 +1,13 @@
+/ke github
+add fork
+
+/ke file explorer
+- klik di mana aja
+- git clone (link repo)
+
+/di dalem folder yang di clone
+- git status
+- gid add (namafolder)
+- git commit -m (bebas)
+- git push -u origin master / git push
+(kalo ada yang fatal/error, git pull terus git push lagi)
