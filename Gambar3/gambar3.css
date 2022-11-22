@@ -1,0 +1,17 @@
+.foto{
+    display: flex;
+}
+
+.img2{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img2 img{
+    padding: 9em;
+    width: 30%;
+    border-radius: 100%;
+}

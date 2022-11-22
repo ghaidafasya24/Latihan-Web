@@ -1,0 +1,26 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.hubungi{
+    padding-bottom: .5em;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    gap: 1em;
+}
+
+.list a{
+    color: white;
+}

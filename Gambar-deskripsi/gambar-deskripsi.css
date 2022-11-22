@@ -1,0 +1,18 @@
+.content-home{
+    display: flex;
+    padding: 20px;
+    /* untuk mengatur bagian paling atas */
+    padding-top: 4em;
+    margin: auto;
+    /* untuk mengatur text */
+    text-align: justify;
+}
+
+.deskripsi1{
+    align-items:flex-start;
+    display: flex;
+    flex-direction: column;
+    /* untuk mengatur jarak antara deskripsi dan image */
+    padding-left: 3em;
+    padding-right: 2em;
+}
